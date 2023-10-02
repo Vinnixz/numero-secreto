@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <h1>Jogo do número secreto</h1>
 
 <h2>🔖 Sobre</h2>
@@ -17,4 +16,4 @@
 | :---: | :---: |
 =======
 # numero-secreto (projeto alura)
->>>>>>> f504a946ae0ad7e4d8e1f2d24f9e80e13f919ea0
+
